@@ -1,7 +1,7 @@
 <div align="center">
     <img src="Screenshot 2026-09-17 10.29.36 AM.png"
 ">
-    <p>Outerstellar but fixed, super cool; should be updated regualarly<p>
+    <p>a proxy that actually works. i know because i made it, or forked it then redesigned it ;) <p>
     <p> Based off voidous which is based off interstellar</p>
 </div>
 
