@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
+    <img src="<img width="708" height="169" alt="image" src="https://github.com/user-attachments/assets/9d69371c-182b-47f8-8420-8b3efe31d4ee" />
+">
     <p>Outerstellar but fixed, super cool; should be updated regualarly<p>
     <p> Based off voidous which is based off interstellar??</p>
 </div>
