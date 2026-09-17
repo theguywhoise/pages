@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Screenshot 2026-09-17 10.29.36 AM.png" />
+    <img src="Screenshot 2026-09-17 10.29.36 AM.png"
 ">
     <p>Outerstellar but fixed, super cool; should be updated regualarly<p>
     <p> Based off voidous which is based off interstellar</p>
