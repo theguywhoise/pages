@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="<img"https://github.com/user-attachments/assets/9d69371c-182b-47f8-8420-8b3efe31d4ee" />
+    <img src="Screenshot 2026-09-17 10.29.36 AM.png" />
 ">
     <p>Outerstellar but fixed, super cool; should be updated regualarly<p>
     <p> Based off voidous which is based off interstellar</p>
