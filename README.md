@@ -15,8 +15,7 @@
 - Fast Speeds Sometimes
 
 ## Deployment
-im the only one deploying this
- 
+use codespaces ig but since its just interstellar at its core you can deploy it to like koyeb or other stuff AND VERCEL!!!! 
 
 # Credits
 [Intertellar](https://github.com/UseInterstellar/Interstellar)
